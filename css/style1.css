@@ -1,7 +1,4 @@
-body{
-               background-color: black;
-               color: white;
-}
+
 #monparagraphe{
                color: green;
 }
@@ -12,4 +9,12 @@ body{
 
 a{
                color: red;
+}
+
+p{
+               color: skyblue;
+}
+h1{
+               font-size: 3em;
+               border: 1px red solid;
 }
